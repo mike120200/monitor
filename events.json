@@ -1,0 +1,9 @@
+[
+  {"id":"ism-20261005","name":"美国ISM服务业PMI","time_utc":"2026-10-05T14:00:00Z","verified":true,"verified_at":"2026-10-02","sources":["https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"]},
+  {"id":"minutes-20261007","name":"美联储9月会议纪要","time_utc":"2026-10-07T18:00:00Z","verified":true,"verified_at":"2026-10-02","sources":["https://www.federalreserve.gov/newsevents/2026-october.htm"]},
+  {"id":"cpi-20261014","name":"美国9月CPI","time_utc":"2026-10-14T12:30:00Z","verified":true,"verified_at":"2026-10-02","sources":["https://www.bls.gov/schedule/2026/10_sched.htm"]},
+  {"id":"ppi-20261015","name":"美国PPI与零售销售","time_utc":"2026-10-15T12:30:00Z","verified":true,"verified_at":"2026-10-02","sources":["https://www.newyorkfed.org/research/calendars/i-oct26.html"]},
+  {"id":"fomc-20261028","name":"美联储利率决议","time_utc":"2026-10-28T18:00:00Z","verified":true,"verified_at":"2026-10-02","sources":["https://www.federalreserve.gov/newsevents/2026-october.htm"]},
+  {"id":"fomc-press-20261028","name":"美联储主席发布会","time_utc":"2026-10-28T18:30:00Z","verified":true,"verified_at":"2026-10-02","sources":["https://www.federalreserve.gov/newsevents/2026-october.htm"]},
+  {"id":"gdp-pce-20261029","name":"美国三季度GDP初值与9月PCE","time_utc":"2026-10-29T12:30:00Z","verified":true,"verified_at":"2026-10-02","sources":["https://www.bea.gov/news/schedule/"]}
+]

@@ -1,0 +1,12 @@
+{
+  "btc_quantity": 0,
+  "average_cost_usdt": null,
+  "planned_budget_usdt": null,
+  "remaining_budget_usdt": null,
+  "holding_years": null,
+  "max_drawdown_tolerance_pct": null,
+  "strategy": "BTC现货，明显回撤后分批买入，偏向等待日线修复，长期持有，过热时分批减仓。",
+  "updated_at": "2026-10-02T00:00:00+00:00",
+  "trades": [],
+  "average_cost_verified": false
+}
